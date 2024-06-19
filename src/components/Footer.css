@@ -1,0 +1,14 @@
+.footer-icons {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .footer-icons i {
+    transition: transform 0.2s ease-in-out;
+    color: #564593;
+  }
+  
+  .footer-icons i:hover {
+  color: white;
+  transform: scale(1.5);
+  }
